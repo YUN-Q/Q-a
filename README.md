@@ -1,4 +1,4 @@
 # Q-a
-My first repository on GitHub
-From YUN-Q
+My first repository
+From YUN
 Never give up
